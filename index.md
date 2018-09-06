@@ -15,7 +15,6 @@ Syntax highlighted code block
 
 
 ## Cool/Favorite Things About CS193
-
 - The Labs
 - The TA's
 - The Students
