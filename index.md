@@ -13,7 +13,6 @@ Syntax highlighted code block
 
 # Jack Sovich's first CS193 Lab
 
-
 ## Cool/Favorite Things About CS193
 - The Labs
 - The TA's
