@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - The Students
 - It's in Lawson
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For details on markdown see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
